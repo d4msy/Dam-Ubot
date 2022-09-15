@@ -6,19 +6,19 @@
 # <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
 #
 # t.me/SharingUserbot & t.me/Lunatic0de
-# Cilik-PyroBot
+# Dam-PyroBot
 
 from pyrogram import idle
 from uvloop import install
 
 from config import BOT_VER
-from Cilik import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
-from Cilik.helpers.misc import create_botlog, git, heroku
+from Dam import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
+from Dam.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
-✅ **Cilik-Ubot Activated.**
+✅ **Dam-Ubot Activated.**
 **🏷️ Userbot Version -** `{}`
-**Ketik** `.cilik` **untuk Mengecheck Bot**
+**Ketik** `.Dam` **untuk Mengecheck Bot**
 """
 
 
@@ -35,12 +35,12 @@ async def main():
                 )
             except BaseException:
                 pass
-            LOGGER("Cilik").info(
+            LOGGER("Dam").info(
                 f"Logged in as {bot.me.first_name} | [ {bot.me.id} ]"
             )
         except Exception as a:
             LOGGER("main").warning(a)
-    LOGGER("Cilik").info(f"Cilik-Ubot v{BOT_VER} ⚙️[⚡ Activated ⚡]")
+    LOGGER("Dam").info(f"Dam-Ubot v{BOT_VER} ⚙️[⚡ Activated ⚡]")
     if bot1 and not str(BOTLOG_CHATID).startswith("-100"):
         await create_botlog(bot1)
     await idle()
@@ -48,7 +48,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("Cilik").info("Starting Cilik-Ubot")
+    LOGGER("Dam").info("Starting Dam-Ubot")
     install()
     git()
     heroku()
