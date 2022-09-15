@@ -8,13 +8,15 @@
 
 ## Deploy With Heroku 💌
 
-<p align="left">
-<a href=""><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/</a>  
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=ZGFtc3l4L0RhbS1VYm90IG1haW4"> <img 
+src="https://img.shields.io/badge/Deploy%20To%20Bot%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/damsyx/Dam-Ubot/tree/main"> <img 
+src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 ### Generate  String Sessions
 
-<p align="left">
-<a href="https://t.me/ZetsuStringBot"><img src="https://img.shields.io/badge/Generate%20String-blue?style=for-the-badge&logo=telegram" width="175""/</a>  </p>
+<p align="center"><a href="https://t.me/ZetsuStringBot"><img src="https://img.shields.io/badge/Generate%20String%20Session-blue?style=for-the-flat&logo=telegram" width="210" height"34.45" /</a></p>
 
 ## Config Vars 📑
 
