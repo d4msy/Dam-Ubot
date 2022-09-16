@@ -40,5 +40,5 @@ src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=flat&logo=he
 This repository is license under [GPL-3 License](https://github.com/damsyx/Dam-Ubot/blob/master/LICENSE)
 <p align="Left">
   </br>
-  <b>Copyright (c) 2022 - Damsyx X Grey | Dam-Ubot</b>
+  <b>Copyright (c) 2022 - Dam X Grey | Dam-Ubot</b>
 </p>
