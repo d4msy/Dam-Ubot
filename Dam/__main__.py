@@ -16,11 +16,11 @@ from Dam import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
 from Dam.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
-☑️ **PyroDam-Userbot Berhasil Di Aktifkan!**
-━━
-• **🤖 Userbot Version -** `{}`
-• **Ketik** `.alive` **Untuk Mengecheck Bot.**
-━━
+┌| **Dam-Ubot Berhasil Di Aktifkan.** |┘
+━━━━━━━━━━━━━━━━━━━━━━━━
+◈ **🤖 Userbot Version -** `{}`
+◈ **Ketik** `.alive` **Untuk Mengecheck Bot.**
+━━━━━━━━━━━━━━━━━━━━━━━━
 """
 
 
