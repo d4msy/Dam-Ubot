@@ -140,5 +140,5 @@ async def create_botlog(client):
             dotenv.set_key(path, "BOTLOG_CHATID", gruplog.id)
     except Exception:
         LOGGER("Dam").warning(
-            "var BOTLOG_CHATID kamu belum di isi. Buatlah grup telegram dan masukan bot @GreyDam_bot lalu ketik /id Masukan id grup nya di var BOTLOG_CHATID"
+            "var BOTLOG_CHATID kamu belum di isi. Buatlah grup telegram dan masukan bot @zetsuXrobot lalu ketik /id Masukan id grup nya di var BOTLOG_CHATID"
         )
