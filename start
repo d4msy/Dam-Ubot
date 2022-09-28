@@ -10,7 +10,7 @@
 
 _starter () {
     echo "Downloading source code"
-    git clone https://github.com/grey423/Dam-Ubot
+    git clone https://github.com/damsyx/Dam-Ubot
     cd Dam-Ubot/ && rm -rf .git
     python3 ../updater.py ../requirements.txt requirements.txt
     echo "Dam-Ubot v0.2.0, Copyright © 2022 (Risman) <https://github.com/mrismanaziz>"
