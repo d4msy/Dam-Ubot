@@ -11,7 +11,7 @@
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=ZGFtc3l4L0RhbS1VYm90IG1haW4"> <img 
 src="https://img.shields.io/badge/Deploy%20To%20Bot%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/damsyx/Dam-Ubot/tree/main"> <img 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/OTANCABUL/Dam-Ubot"> <img 
 src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 ### Generate  String Sessions
